@@ -1,0 +1,45 @@
+.container0 { 
+    display: flex;
+    align-items: center;
+    gap: 10rem
+  }
+  
+  .logo {
+    order: 1;
+    margin-right: 15px;
+  
+  }
+  
+  .opcoes {
+    display:flex;flex-direction: row;
+    gap: 50px;
+    order: 1;
+    margin-right: 15px
+  }
+  
+  .button {
+    order: 1;
+    margin-right: 15px
+  }
+  
+  .container1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .img1 {
+    order: 2;
+    margin-left: 15px;}
+  
+    .texto {
+    order: 1;
+    flex-grow: 1;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
